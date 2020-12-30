@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\MorgageCalculator\MorgageCalculator\bin\Debug\MorgageCalculator.exe.config
+C:\Users\ben\source\repos\MorgageCalculator\MorgageCalculator\bin\Debug\MorgageCalculator.exe
+C:\Users\ben\source\repos\MorgageCalculator\MorgageCalculator\bin\Debug\MorgageCalculator.pdb
+C:\Users\ben\source\repos\MorgageCalculator\MorgageCalculator\obj\Debug\MorgageCalculator.csprojAssemblyReference.cache
+C:\Users\ben\source\repos\MorgageCalculator\MorgageCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\ben\source\repos\MorgageCalculator\MorgageCalculator\obj\Debug\App.g.cs
+C:\Users\ben\source\repos\MorgageCalculator\MorgageCalculator\obj\Debug\MorgageCalculator_MarkupCompile.cache
+C:\Users\ben\source\repos\MorgageCalculator\MorgageCalculator\obj\Debug\MorgageCalculator_MarkupCompile.lref
+C:\Users\ben\source\repos\MorgageCalculator\MorgageCalculator\obj\Debug\MainWindow.baml
+C:\Users\ben\source\repos\MorgageCalculator\MorgageCalculator\obj\Debug\MorgageCalculator.g.resources
+C:\Users\ben\source\repos\MorgageCalculator\MorgageCalculator\obj\Debug\MorgageCalculator.Properties.Resources.resources
+C:\Users\ben\source\repos\MorgageCalculator\MorgageCalculator\obj\Debug\MorgageCalculator.csproj.GenerateResource.cache
+C:\Users\ben\source\repos\MorgageCalculator\MorgageCalculator\obj\Debug\MorgageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\MorgageCalculator\MorgageCalculator\obj\Debug\MorgageCalculator.exe
+C:\Users\ben\source\repos\MorgageCalculator\MorgageCalculator\obj\Debug\MorgageCalculator.pdb
